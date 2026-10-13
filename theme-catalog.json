@@ -1,8 +1,8 @@
 {
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "compiledDefaultThemeId": "nova-signal",
   "remoteDefaultThemeId": null,
-  "exportedAt": "2026-10-13T15:33:15.919Z",
+  "exportedAt": "2026-10-13T16:13:52.336Z",
   "seasons": [
     {
       "themeId": "pancake-day",
