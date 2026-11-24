@@ -1,8 +1,8 @@
 {
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "compiledDefaultThemeId": "nova-signal",
   "remoteDefaultThemeId": null,
-  "exportedAt": "2026-10-20T13:31:53.333Z",
+  "exportedAt": "2026-11-24T20:13:00.911Z",
   "seasons": [
     {
       "themeId": "pancake-day",
@@ -66,7 +66,19 @@
       "themeId": "christmas-signal",
       "name": "Christmas",
       "from": "12-01",
-      "to": "12-27"
+      "to": "12-27",
+      "game": {
+        "icon": "🎄",
+        "text": "Christmas",
+        "button": "Quiz",
+        "button2": "Rush",
+        "action2": "xmasRush",
+        "solo2": true,
+        "action": "quickXmas",
+        "color": "#2FA35A",
+        "from": "12-01",
+        "to": "12-31"
+      }
     }
   ],
   "themes": [
